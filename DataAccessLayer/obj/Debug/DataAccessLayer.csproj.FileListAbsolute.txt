@@ -1,0 +1,15 @@
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\01-Entities.dll
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\01-Entities.pdb
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.Cache
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.InitialCreate.resources
+C:\TFS\EntityFramework\TaskManagement\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.addmigrations.resources

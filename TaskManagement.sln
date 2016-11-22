@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Entities", "00-Entities", "{192ADC5F-C1AE-4FDD-A0AE-5E4D6A51BCA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Data AccessLayer", "01-Data AccessLayer", "{4CD3CE9A-3AF8-4F91-BFC8-6B19E5D77860}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-BusinessLayer", "02-BusinessLayer", "{76F0735C-C8DC-4C37-B64F-BAC4F639C587}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-PresentationLayer", "03-PresentationLayer", "{958A0FC9-666A-41B4-89DD-B0900BE41928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{041ACF62-15EB-44C6-9126-5B32811FA4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{09974921-8CF6-40F7-947A-E0E395710D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Entities", "01-Entities\01-Entities.csproj", "{80FF9772-83BB-4B8E-BDE3-23C07B691B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement", "TaskManagement\TaskManagement.csproj", "{C5774F49-7915-4EF0-BABC-DCB702586E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041ACF62-15EB-44C6-9126-5B32811FA4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041ACF62-15EB-44C6-9126-5B32811FA4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041ACF62-15EB-44C6-9126-5B32811FA4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041ACF62-15EB-44C6-9126-5B32811FA4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09974921-8CF6-40F7-947A-E0E395710D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09974921-8CF6-40F7-947A-E0E395710D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09974921-8CF6-40F7-947A-E0E395710D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09974921-8CF6-40F7-947A-E0E395710D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80FF9772-83BB-4B8E-BDE3-23C07B691B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FF9772-83BB-4B8E-BDE3-23C07B691B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FF9772-83BB-4B8E-BDE3-23C07B691B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FF9772-83BB-4B8E-BDE3-23C07B691B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5774F49-7915-4EF0-BABC-DCB702586E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5774F49-7915-4EF0-BABC-DCB702586E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5774F49-7915-4EF0-BABC-DCB702586E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5774F49-7915-4EF0-BABC-DCB702586E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{041ACF62-15EB-44C6-9126-5B32811FA4DA} = {4CD3CE9A-3AF8-4F91-BFC8-6B19E5D77860}
+		{09974921-8CF6-40F7-947A-E0E395710D15} = {76F0735C-C8DC-4C37-B64F-BAC4F639C587}
+		{80FF9772-83BB-4B8E-BDE3-23C07B691B1D} = {192ADC5F-C1AE-4FDD-A0AE-5E4D6A51BCA1}
+		{C5774F49-7915-4EF0-BABC-DCB702586E73} = {958A0FC9-666A-41B4-89DD-B0900BE41928}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ygtts.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataAccessLayer\\DataAccessLayer.csproj
+		SccProjectTopLevelParentUniqueName1 = TaskManagement.sln
+		SccProjectName1 = DataAccessLayer
+		SccLocalPath1 = DataAccessLayer
+		SccProjectUniqueName2 = BusinessLayer\\BusinessLayer.csproj
+		SccProjectTopLevelParentUniqueName2 = TaskManagement.sln
+		SccProjectName2 = BusinessLayer
+		SccLocalPath2 = BusinessLayer
+		SccProjectUniqueName3 = 01-Entities\\01-Entities.csproj
+		SccProjectTopLevelParentUniqueName3 = TaskManagement.sln
+		SccProjectName3 = 01-Entities
+		SccLocalPath3 = 01-Entities
+		SccProjectUniqueName4 = TaskManagement\\TaskManagement.csproj
+		SccProjectTopLevelParentUniqueName4 = TaskManagement.sln
+		SccProjectName4 = TaskManagement
+		SccLocalPath4 = TaskManagement
+	EndGlobalSection
+EndGlobal

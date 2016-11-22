@@ -1,0 +1,35 @@
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\TaskManagement.pdb
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\01-Entities.dll
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\BusinessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\EntityFramework.dll
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\DataAccessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\01-Entities.pdb
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\BusinessLayer.pdb
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\EntityFramework.xml
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\bin\Debug\DataAccessLayer.pdb
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csprojResolveAssemblyReference.cache
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.MainForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.ProjectModules.ProjectAddForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.Properties.Resources.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.TaskManagementForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.csproj.GenerateResource.Cache
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.CustomerModules.CustomerAddForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.EmployeeModules.EmployeeAddForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.EmployeeModules.EmployeeListForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.SecurityModules.PasswordChangeForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.CustomerModules.CustomerListForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.ProjectModules.ProjectListForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.RequestModules.RequestForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.RequestModules.RequestListForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.WorkModules.WorkAddForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.WorkModules.WorkListForm.resources
+C:\TFS\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.WorkModules.ForwardToWorkEmployee.resources
+C:\Users\nbuy_ogrenci\Desktop\Yeni klasör\EntityFramework\TaskManagement\TaskManagement\bin\Debug\TaskManagement.exe.config
+C:\Users\nbuy_ogrenci\Desktop\Yeni klasör\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.exe
+C:\Users\nbuy_ogrenci\Desktop\Yeni klasör\EntityFramework\TaskManagement\TaskManagement\obj\Debug\TaskManagement.pdb

@@ -1,0 +1,11 @@
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\01-Entities.dll
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\01-Entities.pdb
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\TFS\EntityFramework\TaskManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

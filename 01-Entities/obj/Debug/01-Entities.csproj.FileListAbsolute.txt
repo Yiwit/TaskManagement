@@ -1,0 +1,5 @@
+C:\TFS\EntityFramework\TaskManagement\01-Entities\bin\Debug\01-Entities.dll
+C:\TFS\EntityFramework\TaskManagement\01-Entities\bin\Debug\01-Entities.pdb
+C:\TFS\EntityFramework\TaskManagement\01-Entities\obj\Debug\01-Entities.csprojResolveAssemblyReference.cache
+C:\TFS\EntityFramework\TaskManagement\01-Entities\obj\Debug\01-Entities.dll
+C:\TFS\EntityFramework\TaskManagement\01-Entities\obj\Debug\01-Entities.pdb
